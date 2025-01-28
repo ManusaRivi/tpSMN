@@ -1,0 +1,8 @@
+cv2
+pandas
+matplotlib
+datetime
+numpy
+json
+requests
+PIL
